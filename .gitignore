@@ -5,14 +5,11 @@ AugenProject.Data/obj/Debug/AugenProject.Data.dll
 AugenProject.Data/obj/Debug/AugenProject.Data.csproj.CopyComplete
 AugenProject.Data/obj/Debug/AugenProject.Data.csproj.CoreCompileInputs.cache
 AugenProject.Services/obj/
-AugenProject.Web.Api/bin/
 AugenProject.Web.Common/bin/
 AugenProject.Data/obj/
 AugenProject.Services.Models/bin/
 AugenProject.Services/bin/
 AugenProject.Web.Common/obj/
-packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.dll
-packages/
 AugenProject.Web.Api.IntegrationTests/bin/
 AugenProject/obj/
 AugenProject.Common/bin/
@@ -20,3 +17,4 @@ AugenProject.Services.Models/obj/
 AugenProject.Common/obj/
 AugenProject.Web.Api/obj/
 AugenProject.Web.Api.IntegrationTests/obj/
+packages/
