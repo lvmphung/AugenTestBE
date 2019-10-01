@@ -1,4 +1,4 @@
-# Augen Techinical Test
+# Augen Technical Test
 
 Project load list customers from csv file.
 
