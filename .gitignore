@@ -15,3 +15,8 @@ packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.dll
 packages/
 AugenProject.Web.Api.IntegrationTests/bin/
 AugenProject/obj/
+AugenProject.Common/bin/
+AugenProject.Services.Models/obj/
+AugenProject.Common/obj/
+AugenProject.Web.Api/obj/
+AugenProject.Web.Api.IntegrationTests/obj/
